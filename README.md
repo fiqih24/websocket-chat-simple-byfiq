@@ -1,5 +1,5 @@
 # Demo
-This is a WebSocket chat example using ratchet PHP
+This is a WebSocket chat example using ratchet PHP combine room chat with   jQuery
 
 ## Prerequisites
 - PHP 5.6^
@@ -8,8 +8,7 @@ This is a WebSocket chat example using ratchet PHP
 -
 
 ### How To Build
-- open the location file websocket server  ,run in cmd " php -q index.php " 
+- open the location file websocket server  ,run in cmd  " php -q index.php " 
 - edit ws-client port same as index.php PORT server
-- then open ws client in different windows
+- then open ws client in different windows 
 
-taraaaa
